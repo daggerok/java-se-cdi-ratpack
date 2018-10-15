@@ -1,0 +1,4 @@
+rootProject.name = 'java-se-cdi-ratpack'
+enableFeaturePreview 'STABLE_PUBLISHING'
+include 'docs'
+include 'app'
