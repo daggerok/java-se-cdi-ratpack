@@ -4,7 +4,7 @@
 <book xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
 <info>
 <title>java-se-cdi-ratpack (0.0.1)</title>
-<date>2018-10-15 02:59:42 UTC</date>
+<date>2018-10-15 14:42:25 UTC</date>
 <author>
 <personname>
 <firstname>Maksim</firstname>
@@ -16,7 +16,7 @@
 <revhistory>
 <revision>
 <revnumber>0.0.1</revnumber>
-<date>2018-10-15 02:59:42 UTC</date>
+<date>2018-10-15 14:42:25 UTC</date>
 <authorinitials>MK</authorinitials>
 </revision>
 </revhistory>
@@ -59,6 +59,9 @@ http :5050/trololo</programlisting>
 </listitem>
 <listitem>
 <simpara><link xl:href="https://www.youtube.com/watch?v=ZKpUoatSkTc">YouTube: Context Dependency Injection in Java EE 6</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://www.youtube.com/watch?v=D5Tzf2DMnDQ">YouTube: Migrating a JSF-Based Web Application from Spring 3 to Java EE 7 and CDI</link></simpara>
 </listitem>
 </itemizedlist>
 </chapter>
