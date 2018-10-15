@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?asciidoc-toc maxdepth="4"?>
+<?asciidoc-numbered?>
+<book xmlns="http://docbook.org/ns/docbook" xmlns:xl="http://www.w3.org/1999/xlink" version="5.0" xml:lang="en">
+<info>
+<title>java-se-cdi-ratpack (0.0.1)</title>
+<date>2018-10-15 02:41:09 UTC</date>
+<author>
+<personname>
+<firstname>Maksim</firstname>
+<surname>Kostromin</surname>
+</personname>
+<email>daggerok@gmail.com</email>
+</author>
+<authorinitials>MK</authorinitials>
+<revhistory>
+<revision>
+<revnumber>0.0.1</revnumber>
+<date>2018-10-15 02:41:09 UTC</date>
+<authorinitials>MK</authorinitials>
+</revision>
+</revhistory>
+</info>
+<chapter xml:id="introduction">
+<title>Introduction</title>
+<formalpara>
+<title>build and with docker</title>
+<para>
+<programlisting language="bash" linenumbering="unnumbered"># maven
+./mvnw
+http :5050
+http :5050/ololo
+
+# gradle
+./gradlew
+http :5050
+http :5050/trololo</programlisting>
+</para>
+</formalpara>
+<simpara>links:</simpara>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="http://docs.jboss.org/weld/reference/latest/en-US/html_single/">Reference</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://ratpack.io/manual/current/quick-start.html">Ratpack</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="http://weld.cdi-spec.org/news/tags/tips/">Weld tips</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://elmland.blog/2017/09/11/boot-cdi-2-javase/">Bootstrap a CDI 2.0 container in Java SE</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="http://www.mastertheboss.com/jboss-frameworks/cdi/building-a-cdi-2-standalone-java-application">Building a CDI 2 standalone Java application</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://github.com/weld/weld-vertx/tree/master/examples/kotlin">Weld Vert.x Kotlin</link></simpara>
+</listitem>
+</itemizedlist>
+</chapter>
+<chapter xml:id="implementation">
+<title>Implementation</title>
+<simpara>TODO: implement documentation&#8230;&#8203;</simpara>
+</chapter>
+<chapter xml:id="links">
+<title>Links</title>
+<itemizedlist>
+<listitem>
+<simpara><link xl:href="https://github.com/daggerok/java-se-cdi-ratpack">GitHub repo</link></simpara>
+</listitem>
+<listitem>
+<simpara><link xl:href="https://daggerok.github.io/java-se-cdi-ratpack">GitHub pages</link></simpara>
+</listitem>
+</itemizedlist>
+</chapter>
+</book>
