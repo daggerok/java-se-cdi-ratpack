@@ -28,6 +28,7 @@ links:
 - link:https://elmland.blog/2017/09/11/boot-cdi-2-javase/[Bootstrap a CDI 2.0 container in Java SE]
 - link:http://www.mastertheboss.com/jboss-frameworks/cdi/building-a-cdi-2-standalone-java-application[Building a CDI 2 standalone Java application]
 - link:https://github.com/weld/weld-vertx/tree/master/examples/kotlin[Weld Vert.x Kotlin]
+- link:https://www.youtube.com/watch?v=ZKpUoatSkTc[YouTube: Context Dependency Injection in Java EE 6]
 
 //end::content[]
 
