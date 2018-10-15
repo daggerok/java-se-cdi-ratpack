@@ -29,6 +29,7 @@ links:
 - link:http://www.mastertheboss.com/jboss-frameworks/cdi/building-a-cdi-2-standalone-java-application[Building a CDI 2 standalone Java application]
 - link:https://github.com/weld/weld-vertx/tree/master/examples/kotlin[Weld Vert.x Kotlin]
 - link:https://www.youtube.com/watch?v=ZKpUoatSkTc[YouTube: Context Dependency Injection in Java EE 6]
+- link:https://www.youtube.com/watch?v=D5Tzf2DMnDQ[YouTube: Migrating a JSF-Based Web Application from Spring 3 to Java EE 7 and CDI]
 
 //end::content[]
 
